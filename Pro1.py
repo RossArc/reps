@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 30 21:43:40 2022
-
-@author: babyb
-"""
-
 import numpy as np
 
 class Nodo:
